@@ -1,0 +1,134 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "coverImage": "./viratCoverImage.jpg",
+    "profileImage": "./viratProfileImag2.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm medium",
+    "biddingPrice": 15000
+  },
+  {
+    "playerId": 2,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "coverImage": "./smithCoverImage.jpg",
+    "profileImage": "./smithProfileImage.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Legbreak",
+    "biddingPrice": 13000
+  },
+  {
+    "playerId": 3,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "coverImage": "./williamsonCover.jpg",
+    "profileImage": "./williamsProfileImage.jpg",
+    "role": "Batsman",
+    "battingType": "Right-handed",
+    "bowlingType": "Offbreak",
+    "biddingPrice": 12000
+  },
+  {
+    "playerId": 4,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "coverImage": "./bumragCoverImage.jpg",
+    "profileImage": "./bumrahProfileImage.webp",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 14000
+  },
+  {
+    "playerId": 5,
+    "name": "Ben Stokes",
+    "country": "England",
+    "coverImage": "./benStokesCoverImage.webp",
+    "profileImage": "./benStokesProfileImage.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm fast-medium",
+    "biddingPrice": 16000
+  },
+  {
+    "playerId": 6,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "coverImage": "./rashidCoverImage.png",
+    "profileImage": "./rashidProfileImage.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Legbreak googly",
+    "biddingPrice": 14000
+  },
+  {
+    "playerId": 7,
+    "name": "David Warner",
+    "country": "Australia",
+    "coverImage": "./warnerCoverImage.jpg",
+    "profileImage": "./davidWarnerProfileImage.jpg",
+    "role": "Batsman",
+    "battingType": "Left-handed",
+    "bowlingType": "Right-arm legbreak",
+    "biddingPrice": 14500
+  },
+  {
+    "playerId": 8,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "coverImage": "./andreRusselCoverImage.jpg",
+    "profileImage": "./abdreRusselProfileImage.avif",
+    "role": "All-rounder",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 15000
+  },
+  {
+    "playerId": 9,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "coverImage": "./trentBoultCoverImage.jpg",
+    "profileImage": "./trentBoultJProfileImage.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Left-arm fast-medium",
+    "biddingPrice": 13000
+  },
+  {
+    "playerId": 10,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "coverImage": "./sakibAlHasanCoverImage.jpeg",
+    "profileImage": "./sakibAlHasanJProfileImage.jpg",
+    "role": "All-rounder",
+    "battingType": "Left-handed",
+    "bowlingType": "Slow left-arm orthodox",
+    "biddingPrice": 12500
+  },
+  {
+    "playerId": 11,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "coverImage": "./deKockCoverImage.jpg",
+    "profileImage": "./deKockProfileImage.png",
+    "role": "Wicketkeeper-Batsman",
+    "battingType": "Left-handed",
+    "bowlingType": "-",
+    "biddingPrice": 13500
+  },
+  {
+    "playerId": 12,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "coverImage": "./cumminsCoverImage.jpg",
+    "profileImage": "./cumminsProfileImage.jpg",
+    "role": "Bowler",
+    "battingType": "Right-handed",
+    "bowlingType": "Right-arm fast",
+    "biddingPrice": 14500
+  }
+]

@@ -1,0 +1,11 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 24 24"
+  fill="currentColor"
+  width="24px"
+  height="24px"
+>
+  <circle cx="12" cy="12" r="10" fill="#4CAF50" />
+  <rect x="11" y="4" width="2" height="10" fill="#FFF" transform="rotate(45 12 12)" />
+  <circle cx="12" cy="12" r="3" fill="#FFC107" />
+</svg>
