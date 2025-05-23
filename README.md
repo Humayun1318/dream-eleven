@@ -7,7 +7,7 @@
 ## Live Project
 
 - **Live Demo**: [DREAM 11](https://dream11-humayun1318.netlify.app/)  
-- **Repository**: [GitHub Repository](https://github.com/programming-hero-web-course1/b10a7-dream-11-Humayun1318.git)
+- **Repository**: [GitHub Repository](https://github.com/Humayun1318/dream-eleven)
 
 ---
 
@@ -59,7 +59,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/programming-hero-web-course1/b10a7-dream-11-Humayun1318.git
-   cd b10a7-dream-11-Humayun1318
+   cd dream-eleven
    ```
 2. Install dependencies:
    ```bash
@@ -110,7 +110,11 @@ Feel free to open issues or feature requests in the [GitHub Issues](https://gith
 - **React-Toastify**: Smooth notification integration.
 
 ---
+## 📬 Contact
 
+**Project Maintainer:** Humayun Kabir          
+📧 Email: humayunkabir6267@gmail.com  
+🐙 GitHub: [@Humayun1318](https://github.com/Humayun1318)
 
-
+Thank you for exploring Dream-eleven — contributions, feedback, and ideas are always welcome! 🚀
 Build your dream cricket team today with **DREAM 11**!
