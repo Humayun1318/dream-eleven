@@ -58,7 +58,7 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/programming-hero-web-course1/b10a7-dream-11-Humayun1318.git
+   git clone https://github.com/Humayun1318/dream-eleven.git
    cd dream-eleven
    ```
 2. Install dependencies:
@@ -97,7 +97,7 @@ Each section (Navbar, Banner, Main, Footer) is designed to work seamlessly on de
 ## Contributions
 
 Contributions and suggestions are welcome!  
-Feel free to open issues or feature requests in the [GitHub Issues](https://github.com/programming-hero-web-course1/b10a7-dream-11-Humayun1318/issues).
+Feel free to open issues or feature requests in the [GitHub Issues](https://github.com/Humayun1318/dream-eleven/issues).
 
 ---
 
